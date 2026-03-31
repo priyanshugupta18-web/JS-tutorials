@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+#toggle-btn{
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+}
